@@ -8,7 +8,7 @@ var router = express.Router();
 var trains=[
   {name:'ChennaiExpress',TotalSeats:860,AvailableSeats:860},
   {name:'kanyakumariExpress',TotalSeats:640,AvailableSeats:640},
-  {name:'coimbatoreExpress',TotalSeats:640,AvaiableSeats:640},
+  {name:'coimbatoreExpress',TotalSeats:600,AvaiableSeats:600},
   {name:'nagercoilExpress',TotalSeats:860,AvailableSeats:860},
   {name:'howrahExpress',TotalSeats:860,AvailableSeats:860}
 
